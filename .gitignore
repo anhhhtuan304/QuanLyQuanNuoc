@@ -1,0 +1,8 @@
+target/
+.nb-gradle/
+nbactions.xml
+*.log
+*.class
+*.jar
+.DS_Store
+Thumbs.db
